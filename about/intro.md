@@ -4,7 +4,7 @@ Dear Steemit community,
 
 first and foremost: Hi and a happy new year! My name is Robert and I have been a reader of steemit posts for quite some time. Now as a New Year's resolution I decided to become an active party in this community. To be fair, I did register last year, but my account confirmation took some time. I guess many of you know how it feels to constantly hit the refresh button of your inbox... but I digress.
 
-![me](https://raw.githubusercontent.com/SmokinCaterpillar/steemit_data/master/about/me.jpg "Me at Colca Canyon in lovely Peru!")
+![me](https://raw.githubusercontent.com/SmokinCaterpillar/steemit_data/master/about/me.jpg =480x360 "Me at Colca Canyon in lovely Peru!")
 
 So who am I (i.e. the guy in the picture above) and what can you expect from me? I am a former theoretical Neuroscientist. If you now imagine wet science with dissecting brains, I have to disappoint you. Theoretical Neuroscience is more about Math and Computer Science and trying to figure out ways to describe the brain by differential equations. After figuring out that this skill is rather pointless if you do not want to pursue an academic career, I switched to Data Science and Machine Learning. I still keep doing this as a professional and I might share some insights with you. 
 
