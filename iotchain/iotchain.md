@@ -1,14 +1,14 @@
 # IoT Chain: China's new IOTA? An easy investment or should we set off the alarm bells? Let's do our homework!
 
 
-Recently a new coin called IoT Chain made some headlines in the [Huffington Post](https://www.huffingtonpost.com/entry/a-beginners-guide-to-iot-chain-the-iota-of-china_us_5a4a4edee4b06cd2bd03e183). Besides drowning the reader in buzzwords, the authors claim that IoT Chain is a new Chinese technology combining [Blockchain](https://en.wikipedia.org/wiki/Blockchain) (like Bitcoin or Dash) and a [Tangle](https://en.wikipedia.org/wiki/Directed_acyclic_graph) (like IOTA or Byteballs) that allows fast payments among IoT devices and facilitates IoT data security. For the less technically inclined reader: IoT is short for the *Internet of Terror*. This means your toaster is hooked up to the internet and refuses to toast your slice of bread until you pay a ransom of some Bitcoin to the guys who just hacked it. But I digress.
+Recently a new coin called IoT Chain made some headlines in the [Huffington Post](https://www.huffingtonpost.com/entry/a-beginners-guide-to-iot-chain-the-iota-of-china_us_5a4a4edee4b06cd2bd03e183) coining the phrase "IOTA of China". Besides drowning the reader in buzzwords, the authors claim that IoT Chain is a new Chinese technology combining [Blockchain](https://en.wikipedia.org/wiki/Blockchain) (like Bitcoin or Dash) and a [Tangle](https://en.wikipedia.org/wiki/Directed_acyclic_graph) (like IOTA or Byteballs) that allows fast payments among IoT devices and facilitates IoT data security. For the less technically inclined reader: IoT is short for the *Internet of Terror*. This means your toaster is hooked up to the internet and refuses to toast your slice of bread until you pay a ransom of some Bitcoin to the guys who just hacked it. But I digress.
 
 ![ICO](https://steemit-production-imageproxy-thumbnail.s3.amazonaws.com/U5dqtAg1iPo6vrFqmb84gWhxevzxdVZ_1680x8400)
 *Meme thankfully borrowed from [this steemit post](https://steemit.com/meme/@echoesinthemind/ico-scams).*
 
 Of course, IoT Chain making it into the Huffington Post left its mark on the coin's market capitalization. According to [CoinMarketCap](https://coinmarketcap.com/currencies/iot-chain/), by the time of writing, it has surpassed 250 million USD and keeps on growing.
 
-I have to admit, seeing this monstrous rise, I got interested. Did I miss a good opportunity for an investment? Or is there a chance that IoT Chain will further climb to the top Cryptcurrencies, much like NEO, the supposed Ethereum of China?
+I have to admit, seeing this monstrous rise, I got interested. Did I miss a good opportunity for an investment? Or is there a chance that IoT Chain will further climb to the top Cryptcurrencies, much like NEO, that (rightfully) has been termed the Ethereum of China?
 
 ![Surge](https://raw.githubusercontent.com/SmokinCaterpillar/blog/master/iotchain/price_surge.png)
 
@@ -36,7 +36,7 @@ Moreover, the [community on BitcoinTalk](https://bitcointalk.org/index.php?topic
 
 If somebody would be so kind to point out to me where exactly I can find the wallet? The website's *Download Center* only lists the whitepaper.
 
-Oh wait, the Roadmap says the wallet won't be available until the end of May. But how come that their coin is [traded on exchanges like OKEx](https://coinmarketcap.com/currencies/iot-chain/#markets)? Please, do not tell me it is just [this simple ERC20 Ethereum token](https://etherscan.io/token/tokenholderchart/0x5e6b6d9abad9093fdc861ea1600eba1b355cd940).
+Oh wait, the Roadmap says the wallet won't be available until the end of May. But how come that their coin is [traded on exchanges like OKEx](https://coinmarketcap.com/currencies/iot-chain/#markets)? Please, do not tell me it is just [this simple ERC20 Ethereum token](https://etherscan.io/token/tokenholderchart/0x5e6b6d9abad9093fdc861ea1600eba1b355cd940). Shouldn't they offer their own new Cryptocurrency instead of being an Ethereum free-rider?
 
 ### The Github Profile
 
@@ -54,3 +54,14 @@ Maybe you can take this as a friendly reminder to do your homework before invest
 
 
 DISCLOSURE: I hold a variety of Cryptocurrencies and tokens, IoT Chain is not among them. **Moreover, this article should not be considered as an investment advice.** Oh, and before I forget, I also wrote a little [Python Blockfolio](https://steemit.com/cryptocurrency/@smcaterpillar/how-much-are-my-cryptocurrency-investments-worth-a-simple-blockfolio-using-python-and-coinmarketcap), I made 9 commits on [Github](https://github.com/SmokinCaterpillar/blockfolio), so it should be worth round about 70 - 100 million USD ;-)
+
+
+## Addendum / Edit
+
+Another strange thing happened. Their [Twitter account](https://twitter.com/IoT_Chain/status/948618236534325248) recently wrote the following: "Can @CoinMarketCap correct the circulating supply of ITC? It's supposed to be 50,000,000"
+
+![twitter post](https://raw.githubusercontent.com/SmokinCaterpillar/blog/master/iotchain/twitter.png)
+
+[This ERC20 Ethereum token](https://etherscan.io/token/tokenholderchart/0x5e6b6d9abad9093fdc861ea1600eba1b355cd940) is indeed the official one. However, if you check it out on Etherscan and [interact with the contract](https://etherscan.io/token/0x5e6b6d9abad9093fdc861ea1600eba1b355cd940#readContract) the total Supply is `100000000000000000000000000`. Discounting the 18 decimals of the token, this leaves us with 100 million coins and not 50 million. Did they make a mistake in their Ethereum smart contract and added the wrong amount of tokens? Or did they burn (roughly) half of the tokens? According to Etherscan the two biggest token holders own together about 45.8% of all tokens. Are they referring to these as being lost?
+
+It is impossible to say because the contract is not open sourced, at least not on their Github profile nor on Etherscan directly. Moreover, I could not find any explanation on the usage of their Ethereum tokens in the future. Are holders simply rewarded with new coins own their own Blockchain or DAG later on? What is the purpose of the Ethereum token except providing cash flow to their company? IoT Chain remains mysterious...
