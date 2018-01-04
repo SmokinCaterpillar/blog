@@ -12,7 +12,7 @@ I have to admit, seeing this monstrous rise, I got interested. Did I miss a good
 
 ![Surge](https://raw.githubusercontent.com/SmokinCaterpillar/blog/master/iotchain/price_surge.png)
 
-As many Crypto investors I like the thrill of finding lesser known coins, assets, or technologies that have the potential to grow big and yield massive returns. I was lucky enough to invest early on into IOTA and bought RaiBlocks when it was still in the lower single digits. However, I try not to blindly throw money at various projects. I rather do some research first, that is skim whitepapers (or if it's mind blowing dive really deep into it), look at the developing team and the community (mostly BitcoinTalk), try out wallets, and, since I am a coder myself, check-out the git repository. So let us do that!
+As many Crypto investors I like the thrill of finding lesser known coins, assets, or technologies that have the potential to grow big and yield massive returns. I was lucky enough to invest early on into [IOTA](https://iota.org/) and bought [RaiBlocks](https://raiblocks.net/) when it was still in the lower single digits. However, I try not to blindly throw money at various projects. I rather do some research first, that is skim whitepapers (or if it's mind blowing dive really deep into it), look at the developing team and the community (mostly BitcoinTalk), try out wallets, and, since I am a coder myself, check-out the git repository. So let us do that!
 
 ### The Whitepaper
 
@@ -20,12 +20,12 @@ Let's start with the positive aspect(s). Well, at least they do have a whitepape
 
 Of course, quantity of math may not always be a good metric for judging tech publications. Maybe the whitepaper can convey their genius setup even without any rigorous math and, no kidding, double line spacing. Yet, they start off wasting 8 of their 27 precious pages on describing how big the market of IoT devices will most likely grow in the coming years and a very, very broad sketch of Bitcoin and Blockchains.
 
-Next, they give a very rough overview of their systems' potential layout. They want to combine the practical Byzantine fault tolerance algorithm, of which variants are applied by renowned coins such as Stellar or Ripple, with a directed acyclic graph (DAG) structure as utilized by IOTA. The details of the combination of the technologies, however, are apparently left as an exercise to the reader.
+Next, they give a very rough overview of their systems' potential layout. They want to combine the [practical Byzantine fault tolerance algorithm](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.127.6130), of which variants are applied by renowned coins such as Stellar or Ripple, with a directed acyclic graph (DAG) structure as utilized by IOTA. The details of the combination of the technologies, however, are apparently left as an exercise to the reader.
 
 
 ### The Team and Community
 
-Following the LinkedIn profiles listed on their [website](https://iotchain.io/) is not the most insightful endeavour either. The profiles of the CEO as well as CTO are rather dim. At least their CFO has some skill endorsements. Hence, most likely cash flow won't be a problem for them.
+Following the LinkedIn profiles listed on their [website](https://iotchain.io/) is not the most insightful endeavor either. The profiles of the CEO as well as CTO are rather dim. At least their CFO has some skill endorsements. Hence, most likely cash flow won't be a problem for them.
 
 Moreover, the [community on BitcoinTalk](https://bitcointalk.org/index.php?topic=2612309.0) resembles an abandoned desert ghost town. It lists only 3 pages for *the* IOTA of China?!
 
