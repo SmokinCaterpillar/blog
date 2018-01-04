@@ -1,9 +1,9 @@
-# IoT Chain: The IOTA of China? An easy investment or should we set off the alarm bells? Let's do our homework!
+# IoT Chain: China's new IOTA? An easy investment or should we set off the alarm bells? Let's do our homework!
 
-Recently a new coin called IoT Chain, made some headlines in the
+Recently a new coin called IoT Chain made some headlines in the
 [Huffington Post](https://www.huffingtonpost.com/entry/a-beginners-guide-to-iot-chain-the-iota-of-china_us_5a4a4edee4b06cd2bd03e183).
 Besides drowning the reader in buzzwords, the authors claim that IoT Chain
-is a new Chinese blockchain technology that allows fast payments among IoT devices
+is a new Chinese blockchain like technology that allows fast payments among IoT devices
 and facilitates IoT data security.
 For the less technically inclined reader: IoT is short for the *Internet of Terror*.
 This means your toaster is hooked up to the internet and refuses to toast your slice of bread until you pay a ransom
@@ -14,12 +14,12 @@ of some Bitcoin to the guys who just hacked it. But I digress.
 Of course, IoT Chain making it into the Huffington Post
 left its mark on the coin's market capitalization.
 According to [CoinMarketCap](https://coinmarketcap.com/currencies/iot-chain/),
-by the time of writing, it has surpassed 250 billion USD and keeps on growing .
+by the time of writing, it has surpassed 250 billion USD and keeps on growing.
 
 I have to admit, seeing this monstrous rise, I got interested.
 Did I miss a good opportunity for an investment? Or is there a chance that
 IoT Chain will further climb to the top Cryptcurrencies, much like NEO, the
-alleged Ethereum of China?
+supposed Ethereum of China?
 
 ![Surge](https://raw.githubusercontent.com/SmokinCaterpillar/blog/master/iotchain/price_surge.png)
 
@@ -52,7 +52,7 @@ in the coming years and a very, very general sketch of Bitcoin and Blockchains.
 
 Next, they give a very rough overview of their systems' potential layout. They want to combine
 the practical Byzantine fault tolerance algorithm, of which variants are applied
-by renowned coins such as Stellar or Ripple, with a directed acyclic graph structure as utulized by IOTA.
+by renowned coins such as Stellar or Ripple, with a directed acyclic graph (DAG) structure as utulized by IOTA.
 The details of the combination of the technologies, however,
 are apparently left as an exercise to the reader.
 
@@ -73,10 +73,10 @@ resembles an abandonded desert ghost town. It lists only 3 pages for *the* IOTA 
 ### The Wallet
 
 If somebody would be so kind to point out to me where exactly I can find
-the wallet? The websites' *Download Center* only lists the whitepaper.
+the wallet? The website's *Download Center* only lists the whitepaper.
 
 Oh wait, the Roadmap says the wallet won't be available until the end
-of March. But how come that their coin is
+of May. But how come that their coin is
 [traded on exchanges like OKEx](https://coinmarketcap.com/currencies/iot-chain/#markets)?
 Please, do not tell me it is
 [this simple ERC20 Ethereum token](https://etherscan.io/token/tokenholderchart/0x5e6b6d9abad9093fdc861ea1600eba1b355cd940).
@@ -93,17 +93,17 @@ the Ethereum C++ client has accumalted more than 30,000 commits, for instance.
 
 ![The Repo](https://raw.githubusercontent.com/SmokinCaterpillar/blog/master/iotchain/the_repo.png)
 
-### Oh Boy
+## Oh Boy
 
 The Cryptocurrency community should teak a break, followed by a deep
 breath, and we should ask ourselves: How did we end up here?
 
 I know, everyone is sick of hearing the evil B-word, but I have to say it: I do smell
 a **bubble** here. Hopefully, I am wrong, I just caught them in a
-very early stage, and IoT Chain will deliver an amazing new Blockchain solution in the far future.
+very early stage, and IoT Chain will deliver an amazing new Blockchain or DAG solution in the far future.
 However, I would always be skeptical if a project
 offers a super flashy website, but everything beyond that fails to live up
-to the promises made on this exact page.
+to the promises made.
 
 Maybe you can take this as a friendly reminder to do your homework before
 investing, especially for high risk options such as Cryptocurrencies.
