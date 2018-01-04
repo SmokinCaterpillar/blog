@@ -9,6 +9,8 @@ For the less technically inclined reader: IoT is short for the *Internet of Terr
 This means your toaster is hooked up to the internet and refuses to toast your slice of bread until you pay a ransom
 of some Bitcoin to the guys who just hacked it. But I digress.
 
+![IoT Chain](https://raw.githubusercontent.com/SmokinCaterpillar/blog/master/iotchain/iot_chain.png)
+
 Of course, IoT Chain making it into the Huffington Post
 left its mark on the coin's market capitalization.
 According to [CoinMarketCap](https://coinmarketcap.com/currencies/iot-chain/),
@@ -18,6 +20,8 @@ I have to admit, seeing this monstrous rise, I got interested.
 Did I miss a good opportunity for an investment? Or is there a chance that
 IoT Chain will further climb to the top Cryptcurrencies, much like NEO, the
 alleged Ethereum of China?
+
+![Surge](https://raw.githubusercontent.com/SmokinCaterpillar/blog/master/iotchain/price_surge.png)
 
 As many Crypto investors I like the thrill of finding lesser known coins, assets, or technologies that
 have the potential to grow big and yield massive returns. I was lucky enough to invest early on into IOTA
@@ -63,6 +67,8 @@ Hence, most likely cashflow won't be a problem for them.
 Moreover, the [community on BitcoinTalk](https://bitcointalk.org/index.php?topic=2612309.0)
 resembles an abandonded desert ghost town. It lists only 3 pages for *the* IOTA of China?!
 
+![BitcoinTalk](https://raw.githubusercontent.com/SmokinCaterpillar/blog/master/iotchain/three_pages.png)
+
 
 ### The Wallet
 
@@ -85,6 +91,7 @@ comprises of only a single contributor and, brace yourself, 25
 (in words twentyfive!) commits? Just to put this into perspective
 the Ethereum C++ client has accumalted more than 30,000 commits, for instance.
 
+![The Repo](https://raw.githubusercontent.com/SmokinCaterpillar/blog/master/iotchain/the_repo.png)
 
 ### Oh Boy
 
