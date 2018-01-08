@@ -2,7 +2,7 @@
 
 I am a fan of self-organizing systems and complexity that can emerge from simple rules. Today I want to tell you about such a very simple system that can draw beautiful plant like structures. In the late sixties the Hungarian biologist Aristid Lindenmayer developed so called L-Systems (yes, L stands for his last name), a formal grammar to simulate plant growth and development.
 
-What is so special and fascinating about these L-Systems? Well, first of all, the underlying principles are relatively straightforward, yet they can yield very complex behavior; I'll give you some examples below, bear with me for a second, though. By the way, this phenomenon of simple rules leading to complex dynamics is often termed *Emergence* in science. Secondly, even the mathematically notation of these systems is easy to understand. In contrast to other *simple systems* like coupled differential equations.
+What is so special and fascinating about these L-Systems? Well, first of all, the underlying principles are relatively straightforward, yet they can yield very complex behavior; I'll give you some examples below, bear with me for a second, though. Secondly, even the mathematically notation of these systems is easy to understand (I swear, do not panic because I said math :-D); in contrast to other *simple systems* like coupled differential equations (yes, you are allowed to panic if you see coupled differential equations).
 
 ## The Basics of L-Systems: Meet the happy Turtle!
 
@@ -108,8 +108,7 @@ or the development of trees that compete for sunlight and, therefore, grow in op
 
 L-Systems are powerful tools to model realistic plants. They are heavily used in science, for example, to investigate tree metabolism [4] or root growth [5]. L-Systems are not restricted to plants, they can also be used for other natural phenomena such as the growth of nerve tissue [6] or to generate realistic scenarios in computer games [7].
 
-Finally, as a reminder, if you want to play around with L-Systems yourself, I provided a little Python script to do so
-[on my Github profile](https://github.com/SmokinCaterpillar/blog/blob/master/lsystems/stackturtle.py).
+Finally, as a reminder, if you want to play around with L-Systems yourself, I provided a little Python script to do so [on my Github profile](https://github.com/SmokinCaterpillar/blog/blob/master/lsystems/stackturtle.py).
 
 ``` python
 
@@ -136,4 +135,3 @@ def init_turtle():
 ZitierenZitieren
 
 [7] StackOverflow: [L-Systems to grow city models](https://gamedev.stackexchange.com/questions/18799/what-is-a-good-algorithm-for-fractal-based-procedural-city-layout)
-
