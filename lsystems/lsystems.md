@@ -69,45 +69,48 @@ Here `A` will be replaced by `AB` with 20% chance and by `BA` in the remaining 8
 
 ### stochastic image
 
-Although these individual plants
+Although these individual plants are different, you might think they belong to the same species.
 
-Obwohl die Pflanzen unterschiedlich sind, könnte man sie gut der gleichen Art zuordnen.
+As a next augmentation to our system we can introduce context sensitivity:
 
-Darüber hinaus lässt sich noch Kontextsensitivität definieren:
+`B<A>C -> ACA`
 
-B<A>C -> ACA
+In this rule `A` will only be replaced by `ACA` if a `B` can be found to the left and a `C` to the right of `A`. Context sensitive plants look like this, for example:
 
-Hier wird A nur durch ACA ersetzt falls sich zur Linken von A ein B und zur Rechten ein C befindet. Zuvor war es unmöglich zu simulieren, dass ein Baum in der Krone anders wächst als unten am Stamm, durch Kontextsensitivität lässt sich dies jedoch erreichen. Kontextsensitive Pflanzen sehen zum Beispiel so aus:
-Name:  contextplants.jpg
-Hits: 714
-Größe:  77,6 KB
-Wiederum stammt das Bild aus [1].
+### context sensitive
 
-Dennoch wird Kontextsensitivität etwas komplizierter wenn man die Klammeroperatoren [ und ] hinzunimmt mit denen sich Verästelung simulieren lassen. Der Kontext eines Zeichens ist dann definiert als der obere und untere Teil in der Zeichnung und nicht notwendigerweise als der Kontext direkt im String.
-Zum Beispiel würde die obere Regel auch in diesem Fall greifen B[ACA]AC, A befindet sich zwischen B und C und der Nebenast [ACA] wird ignoriert. In der resultierenden Pflanzenzeichnung lägen B und A nämlich neben bzw. untereinander.
-Kontextsensitivität kann auch genutzt werden um Informationsfluss in Pflanzen zu simulieren, beispielsweise Chemikalien die durch den Stängel transportiert werden oder ähnliches.
+Context sensitive grammars can not only be used for drawing, but also simulate flow within plants, like the diffusion of chemicals.
 
-Die letzte Erweiterung parametrisiert L-Systeme und die Simulation kann durch logische Ausdrücke und mathematische Operatoren und Funktionen ergänzt werden:
+Finally, we can complicate our system further by introducing parametrized L-Systems. We can add logical and mathematical operators, for instace:
 
-A(t): t > 3 -> B(4t) C(t^2+sin(t),ln(t))
 
-A wird nur durch BC ersetzt wenn der Parameter t größer als 3 ist, darüber hinaus wird t weiter an B und C übergeben. Sehr komplexe Modelle sind möglich wenn nun zusätzlich noch ein mathematisches Modell der Umgebung der Pflanze gegeben ist, das beispielsweise Parameter bestimmen kann, welche das einfallende Licht, Nährstoffe im Boden oder Hindernisse wie Felsen oder Steine beschreiben. Solche mit der Umgebung kommunizierenden L-Systeme werden auch Open L-Systems genannt. Die Schildkrötenbefehle lassen sich ebenso gut parametrisieren: F(t) oder +(t) könnten beispielsweise einen Schritt oder Drehung um den Faktor t bedeuten.
+`A(t): t > 3 -> B(4t) C(t^2+sin(t),ln(t))`
 
-Zum Beispiel lässt sich damit eine Pflanze in einer Box simulieren, die Umgebung definiert die Grenzen der Box,
-Name:  boxplant.jpg
-Hits: 634
-Größe:  85,7 KB
-Bild entnommen aus [2].
+`A` will be replaced by `BC` if `t` is larger than 3. Moreover, `t` is passed onto `B` and `C` giving some complex functions. With such mathemtical parametrizations, one can add a model of the plant's environment such as soil nutrients or light sources.
 
-oder auch Bäume die um Sonnenlicht konkurrieren und deshalb voneinander weg wachsen:
-Name:  competingtrees.jpg
-Hits: 590
-Größe:  31,5 KB
-Bild entnommen aus [3].
+For instance, we could simulate plant growth within a restricted box:
 
-Wie gezeigt sind L-System ein sehr mächtiges Werkzeug um Pflanzen naturgetreu zu modellieren. L-Systeme werden auch vielfach in der Wissenschaft verwendet, beispielsweise um den Metabolismus von Bäumen zu untersuchen [4] oder die Entwicklung von Wurzelwerk in verschiedenen Bodenarten [5]. Aber nicht nur künstliche Pflanzen werden erstellt, auch andere wachsende biologische Strukturen wie das Wachstum von neuronalem Gewebe [6]. MWn werden L-System auch in 3D-Spielen häufig verwendet um Wälder und andere Landschaften zu kreieren, leider konnte ich dazu aber keine Quellen finden.
+## box plant
 
-Wer interessiert ist, HIER gibt es sehr viele kostenlose Literatur zu dem Thema.
+or the development of trees that compete for sunlight and, therefore, grow in opposite directions:
+
+## trees growing
+
+In summary, L-Systems are powerful tools to model realistic plants. They are heavily used in science, for example, to investigate tree metabolsim [4] or root growth [5]. L-Systems are not restricted to plants, they can also be used for other natural phenomena such as the growth of nerve tissue [6] or to create realistic environments in computer games [7].
+
+If you want to play around with L-Systems yourself, I provided a little Python script to do so
+on my github profile.
+
+``` python
+
+import turtle as t
+
+def init_turtle():
+    ...
+```
+
+
+# References
 
 [1] P. Prusinkiewicz and A. Lindenmayer, The Algorithmic Beauty of Plants. Springer, 1990.
 
