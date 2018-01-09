@@ -1,5 +1,7 @@
 In this post I'll go on explaining how your computer can grow nicely looking trees and plants. You can find the first part introducing the little turtle who does all the gardening in [PART 1](https://steemit.com/science/@smcaterpillar/l-systems-how-your-computer-grows-flowers-and-trees-free-turtle-inside).
 
+![turtle](https://raw.githubusercontent.com/SmokinCaterpillar/blog/master/lsystems/pencil_turtle.png)
+
 As a reminder, we established L-Systems as so called generative grammars. These are rewriting rules like `F -> F+F-`. We can apply these rules iteratively as often as we please. The resulting string like `F+F-F+F-` can be read by a little obiedient turtle with a pencil
 
 
