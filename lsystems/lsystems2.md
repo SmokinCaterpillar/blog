@@ -2,18 +2,22 @@ In this post I'll go on explaining how your computer can grow nicely looking tre
 
 ![turtle](https://raw.githubusercontent.com/SmokinCaterpillar/blog/master/lsystems/pencil_turtle.png)
 
-As a reminder, we established L-Systems as so called generative grammars. These are rewriting rules like `F -> F+F-`. We can apply these rules iteratively as often as we please. The resulting string like `F+F-F+F-` can be read by a little obiedient turtle with a pencil
+As a reminder, we established L-Systems as so called generative grammars. These are rewriting rules like: `F -> F+F-`. We can apply these rules iteratively as often as we please. The resulting string like `F+F-F+F-` can be read by a little obedient turtle with a pencil. The turtle moves either `F`orward or turns left (`+`) or right (`-`) accordingly. Thereby, it draws nice structures such as the Kochcurve:
+
+![Kochcurve](https://raw.githubusercontent.com/SmokinCaterpillar/blog/master/lsystems/kochkurve.jpg)
 
 
 ### Our Turtle needs a Memory
 
-Still, this does not really look like a plant, yet. Our rule system needs one final further adjustment. Let us now introduce the `[` and `]` opening and closing bracket operators. Thereby we add a particular type of memory, also called *stack* in computer science, to our turtle. This means whenever the turtle reads a `[` it should remember its current position and orientation and keep it in mind. If it stumbles upon a `]` it should recall its former state from its memory and return to the remembered position and orientation **without** drawing stuff on its way back. In other words, a `]` teleports the turtle back to where it was when the `[` appeared before. With this simple addition our turtle is able to draw realistic looking plants. See below for a whole set of different grammars and corresponding plants:
+Still, this does not really look like a plant, yet. Our rule system needs one further adjustment. Let us now introduce the `[` and `]` opening and closing bracket operators. Thereby we add a particular type of memory, also called *stack* in computer science, to our turtle. This means whenever the turtle reads a `[` it should remember its current position and orientation and keep it in mind. If it stumbles upon a `]` it should recall its former state from its memory and return to the remembered position and orientation **without** drawing stuff on its way back. In other words, a `]` teleports the turtle back to where it was when the last `[` appeared before. With this simple addition our turtle is able to draw realistic looking plants. See below for a whole set of different grammars and corresponding plants:
 
 ![Stack Plants](https://raw.githubusercontent.com/SmokinCaterpillar/blog/master/lsystems/stackplants.jpg)
-*In this figure n is the number of iterations and sigma denotes the fixed angle. Image taken from [1]*
+*In this figure n is the number of iterations, sigma denotes the fixed turning angle, the character `X` is only needed for the grammar. It is ignored by the drawing turtle. Image taken from [1]*
 
 Note that the `X` symbol is needed here for some plants. Since our turtle has no clue
-what `X` means, it will simply ignore it. It is only used to generate the strings and is irrelevant for the drawing. Furthermore, I wrote a little Python script you can use to draw these plants by yourself, the code is published in [my github repository](https://github.com/SmokinCaterpillar/blog/blob/master/lsystems/stackturtle.py).
+what `X` means, it will simply ignore it. It is only used to generate the strings and is irrelevant for the drawing. Furthermore, I wrote a little Python script that you can use to draw these plants by yourself, the code is published in [my github repository](https://github.com/SmokinCaterpillar/blog/blob/master/lsystems/stackturtle.py).
+
+## More advanced L-Systems
 
 Of course, our simple turtle drawings are not the end of L-Systems. We could modfiy the drawing process and allow for three-dimensional rotations, add color, and allow additions of entire leaves:
 
@@ -21,8 +25,6 @@ Of course, our simple turtle drawings are not the end of L-Systems. We could mod
 *Image taken from [1]*
 
 And this really does look like a realistic plant.
-
-## More advanced L-Systems
 
 We can further augment our L-System by introducing randomness. We can allow for alternative rules for the same initial character. The selection of rules is random following a certain probability:
 
@@ -60,7 +62,7 @@ For instance, we could simulate plant growth within a restricted box:
 ![boxplant](https://raw.githubusercontent.com/SmokinCaterpillar/blog/master/lsystems/boxplant.jpg)
 *Image taken from [2]*
 
-or the development of trees that compete for sunlight and, therefore, grow in opposite directions:
+Or the development of trees that compete for sunlight and, therefore, grow in opposite directions:
 
 ![competing](https://raw.githubusercontent.com/SmokinCaterpillar/blog/master/lsystems/competingtrees.jpg)
 *Image taken from [3]*
