@@ -10,11 +10,11 @@ With the recent major crash of Ethereum and other Cryptocurrencies let's at leas
 
 Let us build this nice *I. & S. Ether* token with the Solidity programming language. We will go for the most simple design possible.
 
-We have to agree on a few parameters at first. We will allow an exchange rate of 0.001 ETH for 1 of our tokens. So by the time of writing (and not another crash in the meantime), Homer would have bought 1000 *I. & S. Ether* for eleven hundred Dollars. However, we are less obnoxious and mean as Itchy and Scratchy Land. Although probably no one is going to accept poor *I. & S. Ether* either, we do allow the exchange of our token back into regular *ETH* without any loss or premium (except Gas costs, of course, but this is out of our control). So buying our token has no associated risk because you can easily redeem the initial *ETH* investment.
+We have to agree on a few parameters at first. We will allow an exchange rate of 0.001 ETH for 1 of our tokens. So by the time of writing (and not another crash in the meantime), Homer would have bought 1000 *I. & S. Ether* for eleven hundred Dollars. However, we are less obnoxious and mean as Itchy and Scratchy Land. Although probably no one is going to accept our *I. & S. Ether* either, we do allow the exchange of our token back into regular *ETH* without any loss or premium (except gas costs, of course, but this is out of our control). So buying our token has no associated risk because you can easily redeem the initial *ETH* investment.
 
 Moreover, usually poeple like scarcity (remember the 21 million Bitcoin?), so let us make our token scarce, too. There will only be 42,000 *I. & S. Ether*, no more and no less!
 
-We need a new Ethereum Smart Contract that manages the our new shiny *I. & S. ETH* for us. This contract needs to follow a particular desing pattern and interface called [ERC20 standard](https://theethereum.wiki/w/index.php/ERC20_Token_Standard). If we obey this standard, other software can make use of the token such as the [MetaMask wallet](https://metamask.io/) or we could even trade it on an exchange like [EtherDelta](https://etherdelta.com/).
+We need a new Ethereum Smart Contract that manages our new shiny *I. & S. ETH* for us. This contract needs to follow a particular desing pattern and interface called [ERC20 standard](https://theethereum.wiki/w/index.php/ERC20_Token_Standard). If we obey this standard, other software can make use of the token such as the [MetaMask wallet](https://metamask.io/) or we could even trade it on an exchange like [EtherDelta](https://etherdelta.com/).
 
 So what does this standard demand from us?
 
@@ -22,7 +22,7 @@ So what does this standard demand from us?
 
 * `symbol`: The ticker symbol for our token, let us choose *ISE*.
 
-* `decimals`: The number of decimals of our token supports. This is where it already gets a bit tricky. From now on we need to calculate everything in the smallest unit of our token. If we pick 9 decimals (for comparison Bitcoin has 8 and Ethereum 18) and we want to have 42,000 tokens overall, we will in fact have 42,000,000,000,000. The first 9 zeros from the right are our decimal places.
+* `decimals`: The number of decimals which our token supports. This is where it already gets a bit tricky. From now on we need to calculate everything in the smallest unit of our token. If we pick 9 decimals (for comparison Bitcoin has 8 and Ethereum 18) and we want to have 42,000 tokens overall, we will in fact have 42,000,000,000,000. The first 9 zeros from the right are our decimal places.
 
 * `totalSupply()`: This function needs to return how many of our tokens exist. So for *ISE* this will give 42,000,000,000,000. Remeber, this is in fact 42,000 because we support 9 decimals.
 
@@ -47,7 +47,9 @@ Let us focus on the more interesting customized part of our token. Let us start 
 ```
 Note, `finney` is a convenient Solidity constant meaning 0.001 *ETH*, i.e. 1000 `finney` are 1 *ETH*. Hence, 1 *ISE* token costs 0.001 *ETH*. Still with me? Good!
 
- Next, let us take a look at the initialization of our *ISE* token. In the constructor we simply create 42,000 tokens out of thin air. Yeah, just like that, no mining, no annoying proof-of-work, it's magic! The holder of these new tokens is the *ISE* smart contract itself (`this`):
+ Next, let us take a look at the initialization of our *ISE* token. In the constructor we simply create 42,000 tokens out of thin air. Yeah, just like that, no mining, no annoying proof-of-work, it's magic! Ok, the miners will have to include our contract into the Blockchain, so some mining will be involved, but let us not get hung up on such technicalities.
+
+ After the contract is deployed, the initial holder of our new tokens is the *ISE* smart contract itself (`this`):
 
 ```
 function IaSEther() public{
@@ -120,7 +122,7 @@ function transfer(address _to, uint256 _amount) public returns (bool) {
 
 #### Deploy and Interact with the Contract
 
-Finally, we just need to deploy the contract to the Blockchain. I just did that and deployed the contract to the Ropsten testnet using the [Remix Solidity environment](https://remix.ethereum.org/). You can find the contract at [0x4e99cb0340cd0a3cb30de4d14e624d42dc673d18](https://ropsten.etherscan.io/address/0x4e99cb0340cd0a3cb30de4d14e624d42dc673d18). If you want to send some test Ether to the contract, you can claim some from [this faucet for free](http://faucet.ropsten.be:3001/).
+Finally, we just need to deploy the contract to the Blockchain. I just did that and deployed the contract to the Ropsten testnet using the [Remix Solidity environment](https://remix.ethereum.org/). You can find the contract on the test network at [0x4e99cb0340cd0a3cb30de4d14e624d42dc673d18](https://ropsten.etherscan.io/address/0x4e99cb0340cd0a3cb30de4d14e624d42dc673d18). If you want to send some test Ether to the contract, you can claim some from [this faucet for free](http://faucet.ropsten.be:3001/).
 
 As a reminder, you can find the entire source code [in my Github profile](https://github.com/SmokinCaterpillar/IaS_Money).
 
