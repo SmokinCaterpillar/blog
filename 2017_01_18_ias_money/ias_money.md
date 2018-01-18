@@ -1,20 +1,18 @@
-Remember Itchy and Scratchy money?
+# Remember Itchy and Scratchy money?
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=dErRj6V8_xQ
-" target="_blank"><img src="http://img.youtube.com/vi/dErRj6V8_xQ/0.jpg"
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+https://www.youtube.com/watch?v=dErRj6V8_xQ
 
-With the recent major crash of Ethereum and other Cryptocurrencies let's at least enjoy ourselves and build our own Cryptocurrency token. Let us create something like regular ETH, but fun. To avoid copyright infringement we just going to call it *I. & S. Ether* (not for Itchy and Scratchy, but innovative and shiny, or something along these lines). **This post is a tutorial on how to setup your own Cryptcurrency on top of Ethereum.**
+With the recent major crash of Ethereum and other Cryptocurrencies let's at least enjoy ourselves and build our own Cryptocurrency token. **Let us create something like regular ETH, but fun.** To avoid copyright infringement we just going to call it *I. & S. Ether*. Of course, this does not stand for "Itchy and Scratchy" (I just used this in the title to shamelessly lure you in), but maybe for "innovative and shiny", or something along these lines.
 
 ## How to build your own ERC20 Token
 
 Let us build this nice *I. & S. Ether* token with the Solidity programming language. We will go for the most simple design possible.
 
-We have to agree on a few parameters at first. We will allow an exchange rate of 0.001 ETH for 1 of our tokens. So by the time of writing (and not another crash in the meantime), Homer would have bought 1000 *I. & S. Ether* for eleven hundred Dollars. However, we are less obnoxious and mean as Itchy and Scratchy Land. Although probably no one is going to accept our *I. & S. Ether* either, we do allow the exchange of our token back into regular *ETH* without any loss or premium (except gas costs, of course, but this is out of our control). So buying our token has no associated risk because you can easily redeem the initial *ETH* investment.
+We have to agree on a few parameters at first. We will allow an exchange rate of 0.001 ETH for 1 of our tokens. So by the time of writing (and not another crash in the meantime), Homer would have bought about 1000 *I. & S. Ether* for eleven hundred Dollars. However, we are less obnoxious and mean as Itchy and Scratchy Land. Although probably no one is going to accept our *I. & S. Ether* either, we do allow the exchange of our token back into regular *ETH* without any loss or premium (except gas costs, of course, but this is out of our control). So buying our token has no associated risk because you can easily redeem the initial *ETH* investment.
 
-Moreover, usually poeple like scarcity (remember the 21 million Bitcoin?), so let us make our token scarce, too. There will only be 42,000 *I. & S. Ether*, no more and no less!
+Moreover, usually people like scarcity (remember the 21 million Bitcoin?), so let us make our token super scarce. There will only be 42,000 *I. & S. Ether*, no more and no less!
 
-We need a new Ethereum Smart Contract that manages our new shiny *I. & S. ETH* for us. This contract needs to follow a particular desing pattern and interface called [ERC20 standard](https://theethereum.wiki/w/index.php/ERC20_Token_Standard). If we obey this standard, other software can make use of the token such as the [MetaMask wallet](https://metamask.io/) or we could even trade it on an exchange like [EtherDelta](https://etherdelta.com/).
+We need a new Ethereum smart contract that manages our new shiny *I. & S. ETH* for us. This contract needs to follow a particular design pattern and interface called [ERC20 standard](https://theethereum.wiki/w/index.php/ERC20_Token_Standard). If we obey this standard, other software can make use of the token such as the [MetaMask wallet](https://metamask.io/) or we could even trade it on an exchange like [EtherDelta](https://etherdelta.com/).
 
 So what does this standard demand from us?
 
@@ -24,7 +22,7 @@ So what does this standard demand from us?
 
 * `decimals`: The number of decimals which our token supports. This is where it already gets a bit tricky. From now on we need to calculate everything in the smallest unit of our token. If we pick 9 decimals (for comparison Bitcoin has 8 and Ethereum 18) and we want to have 42,000 tokens overall, we will in fact have 42,000,000,000,000. The first 9 zeros from the right are our decimal places.
 
-* `totalSupply()`: This function needs to return how many of our tokens exist. So for *ISE* this will give 42,000,000,000,000. Remeber, this is in fact 42,000 because we support 9 decimals.
+* `totalSupply()`: This function needs to return how many of our tokens exist. So for *ISE* this will give 42,000,000,000,000. Remember, this is in fact 42,000 because we support 9 decimals.
 
 * `balanceOf(tokenOwner)`: This function returns the balance of each and every individual token owner. So this is usually 0 unless you purchased some tokens from our contract.
 
@@ -32,7 +30,7 @@ So what does this standard demand from us?
 
 * Moreover, there are some slightly more advanced functions like `allowance`, `approve`, and `transferFrom` which we need to implement such that our token can be handled by exchanges. These methods will allow the exchanges to send our tokens on our behalf in case a trade is executed.
 
-I will spare you the impementational details of these functions. In fact, you can simply copy and paste them from [this ERC20 standard](https://theethereum.wiki/w/index.php/ERC20_Token_Standard). Moreover, the entire source code of this token is also available [on my Github profile](https://github.com/SmokinCaterpillar/IaS_Money).
+I will spare you the implementation details of these functions. In fact, you can simply copy and paste them from [this ERC20 standard](https://theethereum.wiki/w/index.php/ERC20_Token_Standard). Moreover, the entire source code of this token is also available [on my Github profile](https://github.com/SmokinCaterpillar/IaS_Money).
 
 ### The I. & S. Smart Contract
 
@@ -70,7 +68,7 @@ function buy() public payable{
     require(executeTransfer(this, msg.sender, amount));
 }
 ```
-Of course, the number of tokens someone `buy`s is simple the *ETH* sent (`msg.value`) devided by our constant `price`. The trade is implemented as a normal token transfer from the contract to the buyer. Accordingly, the `executeTransfer` is just performing the token exchange according to the ERC20 standard:
+Of course, the number of tokens someone `buy`s is simple the *ETH* sent (`msg.value`) divided by our constant `price`. The trade is implemented as a normal token transfer from the contract to the buyer. Accordingly, the `executeTransfer` is just performing the token exchange according to the ERC20 standard:
 ```
 // Internal function to execute transfer
 function executeTransfer(address _from, address _to, uint256 _amount) internal returns (bool){
@@ -126,4 +124,4 @@ Finally, we just need to deploy the contract to the Blockchain. I just did that 
 
 As a reminder, you can find the entire source code [in my Github profile](https://github.com/SmokinCaterpillar/IaS_Money).
 
-That's about it. So have fun with your new *ISE* token (or your own copy-and-pasted custom token) and happy HODLing!
+That's about it. So have fun with your new *ISE* token (or your own copy-and-pasted custom version) and happy HODLing!
