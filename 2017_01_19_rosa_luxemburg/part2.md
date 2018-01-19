@@ -20,6 +20,9 @@ Während des ersten Weltkrieges waren Rosa Luxemburg und Karl Liebknecht länger
 
 Nach den Matrosenaufständen im November herrschte ein Gefühl der Einheit unter den beiden Strömungen der SPD. MSPD und USPD fühlten sich beide als Sieger über die alten militärischen Kräfte, man blickte gemeinsam in eine neue Zukunft, die es zu formen galt. Doch binnen kurzer Zeit traten Spannungen auf, die MSPD forderte eine parlamentarische Demokratie und näherte sich den alten militärischen Kräften an, die USPD aber forderte eine Räterepublik. Rosa Luxemburg und Karl Liebknecht kritisierten das Handeln der MSPD in ihren Artikeln in der Roten Fahne, dem Presseorgan des Spartakusbundes, scharf. Sie zeigten die Missstände und die Risiken des Bündnisses zwischen der MSPD und den alten militärischen Kräften auf. Luxemburg und Liebknecht forderten weitere revolutionäre Schritte, die Novemberrevolution sollte erst der Anfang einer proletarischen Revolution sein und nicht ein Wegbereiter für eine parlamentarische Demokratie unter Ebert und Scheidemann, den beiden Spitzenpolitikern der MSPD. Binnen eines Monats wandelte sich das Gefühl der Einheit zu tiefem Hass.
 
+![rote-fahne](https://raw.githubusercontent.com/SmokinCaterpillar/blog/master/2017_01_19_rosa_luxemburg/rote-fahne.jpg)
+
+
 Anfang Dezember prangten Plakate an Anschlagssäulen mit folgendem Wortlaut:
 
 > *"Arbeiter, Bürger! Das Vaterland ist dem Untergang nahe. Rettet es! Es wird bedroht nicht von außen, sondern von innen: von der Spartakusgruppe. Schlagt ihre Führer tot! Tötet Liebknecht! Dann werdet ihr Frieden, Arbeit und Brot  haben! Die Frontsoldaten!" (Haffner 1981, S.153)
