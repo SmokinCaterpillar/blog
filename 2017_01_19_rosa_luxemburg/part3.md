@@ -1,7 +1,7 @@
 Die ist der dritte Teil meiner Serie über die Ermordung Rosa Luxemburgs und Karl Liebknechts. Nachdem die Monarchie im Zuge der Novemberrevolution gestürzt und die Weimarer Republik ausgerufen ist, verhärten sich die Fronten zwischen MSPD und USPD, darin insebsondere des linken Spartakus Flügels, der eine parlamentarische Demokratie als Verrat an der Räterepublik sieht. Die anderen Teile der Serie sind, bzw. werden sein:
 
 
-## Die Blutweihnacht – Angriff der GKSD auf die Matrosen
+## Die Blutweihnacht
 
 Eine erneute Zuspitzung der gespannten Situation zwischen den Spartakisten und der Regierung fand am 24. Dezember statt, was später als "Blutweihnacht" (Hannover/Hannover-Drück 1967, S.24) bekannt wurde. Friedrich Ebert befahl den Angriff auf die im Schloss einquartierte Volksmarinedivision, die sich aus den Matrosen der Novemberrevolution zusammensetzte. Die GKSD unter der Leitung Pabsts griff mit Artilleriegeschützen und Gasgranaten an (vgl. Gietinger 1993, S.15). Der Generalstabsoffizier Waldemar Pabst schrieb später in seinem Buch mit dem Titel „Spartakus“ folgendes:
 
@@ -24,3 +24,18 @@ Rosa Luxemburg und Karl Liebknecht mussten in ihren letzten Lebenstagen, währen
 
  "Rosa Luxemburg erlitt mehrere Zusammenbrüche; Liebknecht eilte rastlos von einem Brennpunkt der Gefechte zum anderen und verzehrte so seine Kraft, die für eine vorausschauende Planung der Aktion dringender gebraucht worden wäre." (Hannover/Hannover-Drück 1967, S.28)
 
+## Das Militär schlägt zurück
+
+ Die Regierung war entschlossen hart gegen die Revolutionäre vorzugehen. Man ernannte den Volks-beauftragten der MSPD und späteren Reichswehr-minister Gustav Noske zum Ober-befehlshaber von Berlin, er trat mit den Worten „Einer muß der Bluthund sein, ich scheue die Verantwortung nicht.“ (zit. n. Hannover/Hannover-Drück 1967, S.28) sein Amt an.
+
+Berlin wurde daraufhin blutig von den Militärs zurück-erobert, die Aufstände der Arbeiterverbände wurden niedergeschlagen, Demon-strierende verhaftet und die von Spartakisten besetzte MSPD-Zeitungsredaktion gestürmt. Am 13. Januar war so der Spartakusaufstand gewaltsam beendet worden, Berlin war wieder fest in den Händen der Regierung und der OHL. Jedoch hatte man bis dato weder Rosa Luxemburg noch Karl Liebknecht gefasst und der Vorwärts kommentierte:
+
+> "Viele hundert Tote in einer Reih – \
+Proletarier! \
+Karl, Rosa, Radek und Kumpanei, - \
+Es ist keiner dabei, es ist keiner dabei! \
+Proletarier!" (zit. n. Haffner 1981, S.154)
+
+Jedoch sollte sich das schnell ändern.
+
+Im folgenden, vierten Teil werden Rosa und Karl gefasst und die GKSD begeht zwei Morde.
