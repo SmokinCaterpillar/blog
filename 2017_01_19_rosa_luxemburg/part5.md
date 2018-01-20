@@ -41,6 +41,10 @@ Man ließ nach Vogel fahnden, konnte ihn anfangs jedoch nicht auffinden. Später
 
 ## Die Leiche wird gefunden
 
+![Die Leiche Luxemburgs](https://raw.githubusercontent.com/SmokinCaterpillar/blog/master/2017_01_19_rosa_luxemburg/leiche.png)
+
+*Der Leichnahm Rosa Luxemburgs, Bild aus Hetmann 1987, S. 263*
+
 Am 31.05.1919 fand ein Schleusenarbeiter die Leiche Rosa Luxemburgs im Landwehrkanal. Später meldete Gustav Noske allerdings, dass die Leiche von einem Militärtrupp erst am 01.06.1919 gefunden worden sei. Die Gerichts-mediziner Dr. Strassmann und Professor Dr. Fraenkel unter-suchten den Leichnam und stellten fest, dass die Todesursache definitiv nicht der Kolbenschlag Runges sondern der Pistolenschuss gewesen war. Somit war Rosa Luxemburg entweder von Oberleutnant Vogel oder dem ominösen Marineoffizier ermordet worden.
 
 Die Rechtsgutachter bestätigten trotz dieser Erkenntnisse das Urteil gegen Runge und auch den Freispruch der Besatzung des Liebknecht-Transports. Jedoch beschloss man gegen Vogel eine neue Hauptverhandlung  zu führen. Da dieser aber immer noch in den Niederlanden weilte und nichts daraufhin deutete, dass sich dieses ändern sollte, bestätigte Noske am 8. März 1920 das Fehlurteil gegen Vogel, dies wurde so rechtskräftig, obwohl das Sektionsgutachten klar gegen Noskes Bestätigung sprach.1
