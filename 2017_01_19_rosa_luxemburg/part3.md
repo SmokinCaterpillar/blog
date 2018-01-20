@@ -1,5 +1,13 @@
 Die ist der dritte Teil meiner Serie über die Ermordung Rosa Luxemburgs und Karl Liebknechts. Nachdem die Monarchie im Zuge der Novemberrevolution gestürzt und die Weimarer Republik ausgerufen ist, verhärten sich die Fronten zwischen MSPD und USPD, darin insebsondere des linken Spartakus Flügels, der eine parlamentarische Demokratie als Verrat an der Räterepublik sieht. Die anderen Teile der Serie sind, bzw. werden sein:
 
+* Teil 1: Die absurde offizielle Version der Todesumstände
+
+* Teil 2: Deutschland in revolutionären Wirren
+
+* Teil 4: Die Verfolgung und heimtückische Ermordung der Revolutionäre
+
+* Teil 5: Das Nachspiel der Tat und der Lügenprozess
+
 
 ## Die Blutweihnacht
 

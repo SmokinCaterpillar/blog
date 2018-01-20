@@ -1,5 +1,12 @@
 Die ist der zweite Teil meiner Serie über die Ermordung Rosa Luxemburgs und Karl Liebknechts. Diesmal befassen wir uns mit der Vorgeschichte der Tat und den politischen Irrungen und Wirrungen zu Beginn der Weimarer Republik. Die anderen Teile sind, bzw. werden sein:
 
+* Teil 1: Die absurde offizielle Version der Todesumstände
+
+* Teil 3: Die Blutweihnacht und der Spartakusaufstand
+
+* Teil 4: Die Verfolgung und heimtückische Ermordung der Revolutionäre
+
+* Teil 5: Das Nachspiel der Tat und der Lügenprozess
 
 
 # Die verschiedenen politischen Gruppierungen und Strömungen

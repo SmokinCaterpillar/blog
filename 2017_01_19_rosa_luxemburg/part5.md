@@ -1,7 +1,18 @@
 Die ist der fünfte und letzte Teil meiner Serie über den Tod Rosa Luxemburgs und Karl Liebknechts. Beide sind bereits heimtückisch ermordet worden. Welches Nachspiel werden die Taten haben? Die vorherigen Teile dieser Serie waren:
 
+* Teil 1: Die absurde offizielle Version der Todesumstände
+
+* Teil 2: Deutschland in revolutionären Wirren
+
+* Teil 3: Die Blutweihnacht und der Spartakusaufstand
+
+* Teil 4: Die Verfolgung und heimtückische Ermordung der Revolutionäre
 
 ## Reaktionen in der Reichskanzlei
+
+![Pabst](https://raw.githubusercontent.com/SmokinCaterpillar/blog/master/2017_01_19_rosa_luxemburg/pabst.jpg)
+
+*Waldemar Pabst, Bild Wikipedia*
 
 Ungefähr 4 Stunden nachdem sich beide Morde ereignet hatten, benachrichtigte Waldemar Pabst seine Vorgesetzten Generallleutnant von Hofmann und General von Lüttwitz. Von Hofmann meinte zwar, er hätte dies nicht befohlen, würde sich aber hinter Pabst stellen. Hauptmann Kurt von Schleicher, der stellvertretend für Lüttwitz den Anruf entgegennahm, beglückwünschte Pabst zu seiner Tat. Danach verbreitete sich die Nachricht von der Exekution Luxemburgs und Liebknechts wie ein Lauffeuer durch die militärischen Instanzen.
 
@@ -45,6 +56,63 @@ Man ließ nach Vogel fahnden, konnte ihn anfangs jedoch nicht auffinden. Später
 
 *Der Leichnahm Rosa Luxemburgs, Bild aus Hetmann 1987, S. 263*
 
-Am 31.05.1919 fand ein Schleusenarbeiter die Leiche Rosa Luxemburgs im Landwehrkanal. Später meldete Gustav Noske allerdings, dass die Leiche von einem Militärtrupp erst am 01.06.1919 gefunden worden sei. Die Gerichts-mediziner Dr. Strassmann und Professor Dr. Fraenkel unter-suchten den Leichnam und stellten fest, dass die Todesursache definitiv nicht der Kolbenschlag Runges sondern der Pistolenschuss gewesen war. Somit war Rosa Luxemburg entweder von Oberleutnant Vogel oder dem ominösen Marineoffizier ermordet worden.
+Am 31.05.1919 fand ein Schleusenarbeiter die Leiche Rosa Luxemburgs im Landwehrkanal. Später meldete Gustav Noske allerdings, dass die Leiche von einem Militärtrupp erst am 01.06.1919 gefunden worden sei. Die Gerichtsmediziner Dr. Strassmann und Professor Dr. Fraenkel untersuchten den Leichnam und stellten fest, dass die Todesursache definitiv nicht der Kolbenschlag Runges sondern der Pistolenschuss gewesen war. Somit war Rosa Luxemburg entweder von Oberleutnant Vogel oder dem ominösen Marineoffizier ermordet worden.
 
-Die Rechtsgutachter bestätigten trotz dieser Erkenntnisse das Urteil gegen Runge und auch den Freispruch der Besatzung des Liebknecht-Transports. Jedoch beschloss man gegen Vogel eine neue Hauptverhandlung  zu führen. Da dieser aber immer noch in den Niederlanden weilte und nichts daraufhin deutete, dass sich dieses ändern sollte, bestätigte Noske am 8. März 1920 das Fehlurteil gegen Vogel, dies wurde so rechtskräftig, obwohl das Sektionsgutachten klar gegen Noskes Bestätigung sprach.1
+Die Rechtsgutachter bestätigten trotz dieser Erkenntnisse das Urteil gegen Runge und auch den Freispruch der Besatzung des Liebknecht-Transports. Jedoch beschloss man gegen Vogel eine neue Hauptverhandlung zu führen. Da dieser aber immer noch in den Niederlanden weilte und nichts daraufhin deutete, dass sich dieses ändern sollte, bestätigte Noske am 8. März 1920 das Fehlurteil gegen Vogel, dies wurde so rechtskräftig, obwohl das Sektionsgutachten klar gegen Noskes Bestätigung sprach (vgl. Gietinger 1993, S.44).
+
+## Souchon ist der 'mysteriöse Unbekannte'
+
+Man wandte sich nun dem unbekannten Marineoffizier zu. 1921 glaubte man den Richtigen gefunden zu haben: Leutnant Krull. Krull hatte eine Uhr Rosa Luxemburgs während einer Hausdurchsuchung ungefähr eine Woche vor dem Mord gestohlen und versuchte sich mehrmals als Mörder Rosa Luxemburgs zu profilieren. Jedoch sagten alle Begleitpersonen des Luxemburgtransports aus, dass es sich bei Krull keinesfalls um den unbekannten Marineoffizier handeln konnte. Des weiteren bezichtigte der Fahrer Janschkow im Januar 1922 jemand anderen, der unbekannte Offizier gewesen zu sein:
+
+> Souchon sagte mir, als er mich am anderen Tage [am 16.01.1919] traf, er wäre mit dabei gewesen. In welcher Weise er beteiligt war, kann ich nicht sagen." (Prozessakten: LAB, Rep. 58, Nr. 75, BD. 2 BL. 122f.)
+
+Souchon sollte daraufhin vernommen werden, ließ sich vorerst jedoch nicht auffinden. Im Februar 1922 hatte Souchon bemerkt, dass man nach ihm suchte, er meldete sich aus Helsinki und gab zur Kenntnis, dass er für eine Beantwortung aller Fragen zur Verfügung stehe und die Reise nach Deutschland antreten wollte. Der Marineoffizier blieb jedoch in Helsinki und im Herbst 1923 teilte der Schwiegervater Souchons mit, dass dieser in Finnland "nicht abkömmlich sei" (Gietinger 1993, S.48) und daher nicht nach Deutschland reisen könne. Erst 1925 wurde Hermann Souchon zufällig in Berlin aufgegriffen und daraufhin vernommen. Er gab in dieser Vernehmung zwar zu, in dem Auto, in dem Luxemburg ermordet worden war, mitgefahren zu sein, leugnete aber, den Todesschuss abgegeben zu haben. Nach der Vernehmung reiste Souchon unverzüglich nach Helsinki zurück. Im Oktober 1925 kam man dann auf die Idee, das Verfahren gegen Souchon von der Beihilfe zum Mord auf Meineid auszudehnen und somit ihn auch der Falsschaussage zu bezichtigen. Man wollte Souchon erneut vernehmen und bat ihn ein zweites Mal nach Deutschland. Souchon antwortete, er würde eine Mitteilung machen, sobald er wieder in Deutschland sei, jedoch wartete man vergeblich auf solch eine Nachricht und das Verfahren wurde am 18.07.1932 offiziell eingestellt (vgl. Gietinger 1993, S.49f.).
+
+# Schlussbetrachtung
+
+![Beisetzung](https://raw.githubusercontent.com/SmokinCaterpillar/blog/master/2017_01_19_rosa_luxemburg/beisetzung.jpg)
+
+*Beisetzung Karl Liebknechts und anderer Opfer des Januaraufstandes, Bild Wikipedia*
+
+In der Nacht vom 15. auf den 16. Januar 1919 wurden die beiden Symbolfiguren der Revolution, Rosa Luxemburg und Karl Liebknecht, von den Militärs ermordet. Danach kam es zu einem der wohl schamlosesten Lügenprozesse der deutschen Rechtsgeschichte. Die MSPD duldete, dass die alten Kameraden der Täter über die Angeklagten richteten. Akten verschwanden, Aussagen wurden gefälscht, Beweismittel beseitigt und es wurde gelogen, dass 'sich die Balken bogen'. Nie wurden die Mörder verurteilt und nie war man wirklich an der Findung der Wahrheit interessiert. Aber warum?
+
+Die MSPD hatte schon in den Anfängen der Weimarer Republik ihre sozialistischen Wurzeln verraten und sie versuchte durch eine parlamentarische Demokratie und durch den Zusammenarbeit mit den alten militärischen Kräften der Kaiserzeit ihre eigene Machtposition zu erhalten. Genau dies hatten Rosa Luxemburg und Karl Liebknecht erkannt. Sie beide repräsentierten noch die alten sozialistischen Werte, die auch die SPD in früheren Zeiten propagiert hatte. Luxemburg und Liebknecht wollten die Revolution weiterführen und die alten Kräfte tatsächlich entmachten und nicht mit ihnen koalieren.
+
+Die SPD sah deshalb immer mehr und mehr in Rosa Luxemburg und Karl Liebknecht ihre Feinde. Die SPD verriet ihre alten Ideale, installierte mehr oder minder erfolgreich eine parlamentarische Demokratie und näherte sich den Militärs an um mit einem starken Heer das neue System etablieren zu können. Die revolutionären Kräfte wehrten sich  entschieden gegen dieses Streben. Um die revolutionären Kräfte zu vernichten oder mindestens um sie zu schwächen exekutierten die Militärs die beiden Symbolfiguren und Führer der Revolution, Rosa Luxemburg und Karl Liebknecht, und die MSPD duldete diesen Mord und seine Folgen.
+
+Um einen öffentlichen Eklat zu vermeiden und um ein 'Martyrium Rosa Luxemburg und Karl Liebknecht' zu verhindern, versuchte die MSPD die wahren Tatumstände zu verschleiern und 'vergaß' zwischenzeitlich auch ihre demokratischen und rechtsstaatlichen Grundsätze und übergab die Ermittlungen und Verhandlungen an die Militärs. Es sei noch gesagt, dass ihr der Rechtsvorgang jedoch ein wenig aus den Fingern glitt, der Prozess wurde unkontrolliert von den Mördern selbst geführt und fast unerreichbar der MSPD entzogen.
+
+Aus Rosa Luxemburg und Karl Liebknecht wurden später trotzdem Heldenfiguren; und das nicht nur für die Sozialisten, die sie zum Teil sogar zu einem Mythos verklärten, sondern auch für einen Teil des demokratischen Bürgertums. Kurt Tucholsky, ein Mitglied eben jener Schicht, schrieb über Ermordung Rosa Luxemburgs und Karl Liebknechts:
+
+> „Märtyrer…?Nein. \
+		         Aber Pöbelsbeute \
+Sie wagtens. Wie selten ist das heute. \
+Sie packten zu, und sie setzten sich ein: \
+Sie wollen keine Theoretiker sein.
+
+> […]
+
+> Die Parze des Rinnsteins zerschnitt die Fäden. \
+Da liegen die beiden am Hotel Eden. \
+Bestellte Arbeit? Die Bourgeoisie? \
+So tatkräftig war die gute doch nie… \
+Wehrlos wurden zwei Menschen erschlagen.
+
+> Und es kreischen Geier die Totenklagen: \
+Gott sei Dank! Vorbei ist die Not! \
+«Man schlug», schreibt einer, «die Galizierin tot.» \
+Wir atmen auf! Hurra Bourgeoisie! \
+Jetzt spiele dein Spielchen ohne die!
+
+> Nicht ohne! Man kann die Körper zerschneiden. \
+Aber das eine bleibt von den beiden:
+
+> Wie man sich selber die Treue hält, \
+wie man gegen eine feindliche Welt \
+mit reinem Schilde streiten kann, \
+das vergisst den beiden kein ehrlicher Mann!
+
+> Wir sind, weiß Gott, \
+keine Spartakiden. \
+Ehre zwei Kämpfern \
+Sie ruhen in Frieden!“ (Tucholsky 1985, S.41f.)
