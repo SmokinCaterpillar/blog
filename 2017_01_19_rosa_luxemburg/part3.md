@@ -51,4 +51,4 @@ Proletarier!" (zit. n. Haffner 1981, S.154)
 
 Jedoch sollte sich das schnell ändern.
 
-Im folgenden, vierten Teil werden Rosa und Karl gefasst und die GKSD begeht zwei Morde.
+Im folgenden, vierten Teil werden Rosa und Karl gefasst und die GKSD begeht zwei Morde. Wie immer gilt, Kommentare, Resteems und Upvotes sind natürlich gerne gesehen.

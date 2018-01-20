@@ -121,3 +121,5 @@ Sie ruhen in Frieden!“ (Kurt Tucholsky)
 ### Referenzen
 
 Nochmal zum Abschluss die Quellen, auf die ich mich in allen Teilen bezogen habe: "Eine Leiche im Landwehrkanal" von Klaus Gietinger (1993), "Eine Deutsche Revolution" von Sebastian Haffner (1981), "Der Mord an Rosa Luxemburg und Karl Liebknecht. Dokumentation eines politischen Verbrechen" herausgegeben von Elisbath Hannover-Drück und Heinrich Hannover (1967), "Die Geschichte der Rosa Luxemburg und ihrer Zeit" von Frederik Hetman (1987), sowie "Ich habe Sie richten lassen" von Gustav Strübel (1996).
+
+Das war dann auch der letzte Teil der Serie über die Ermordung Rosa Luxemburgs und Karl Liebknechts. Ich hoffe ihr konntet einiges daraus mitnehmen. Kommentare, Resteems und Upvotes sind natürlich gerne gesehen.
