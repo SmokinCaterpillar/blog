@@ -31,7 +31,7 @@ Nach den Matrosenaufständen herrschte ein Gefühl der Einheit unter den beiden 
 
 Anfang Dezember prangten Plakate an Anschlagssäulen mit folgendem Wortlaut:
 
-> *"Arbeiter, Bürger! Das Vaterland ist dem Untergang nahe. Rettet es! Es wird bedroht nicht von außen, sondern von innen: von der Spartakusgruppe. Schlagt ihre Führer tot! Tötet Liebknecht! Dann werdet ihr Frieden, Arbeit und Brot  haben! Die Frontsoldaten!" (Haffner 1981, S.153)
+> "Arbeiter, Bürger! Das Vaterland ist dem Untergang nahe. Rettet es! Es wird bedroht nicht von außen, sondern von innen: von der Spartakusgruppe. Schlagt ihre Führer tot! Tötet Liebknecht! Dann werdet ihr Frieden, Arbeit und Brot  haben! Die Frontsoldaten!" (Haffner 1981, S.153)
 
 Jedoch war die Unterschrift "Die Frontsoldaten" lediglich ein Pseudonym, die heimkehrenden Soldatentruppen hatten sich fast gänzlich aufgelöst (vgl. Hannover/Hannover-Drück 1967, S.23). Der Ursprung dieser Schriften geht zurück auf den Berliner Stadtkommandanten Wels. Sein Stellvertreter schrieb zwei Jahre später nieder, dass es das Ziel der Politik seines Amtes war, Rosa Luxemburg und Karl Liebknecht zu töten und sie an jedwedem politischen Handeln zu hindern (vgl. Haffner 1981, S.153). Somit planten die konterrevolutionären Militärs schon Anfang Dezember 1918 die Ermordung Luxemburgs und Liebknechts.
 

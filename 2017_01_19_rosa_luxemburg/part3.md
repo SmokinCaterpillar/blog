@@ -14,6 +14,8 @@ Elf Matrosen starben bei den militärischen Auseinandersetzungen mit der GKSD. A
 
 ## Der Spartakusaufstand
 
+![Spartakusaufstand](https://raw.githubusercontent.com/SmokinCaterpillar/blog/master/2017_01_19_rosa_luxemburg/spartakusaufstand.jpg) *Barrikade während des Spartakusaufstandes, Bild Wikipedia*
+
 Dass der entscheidende Kampf zwischen den Revolutionären und Konterevolutionären Kräften schon Anfang Januar 1919 stattfinden sollte, überraschte sowohl Rosa Luxemburg, Karl Liebknecht und die restlichen  Spartakisten als auch den Generalstabsoffizier Pabst und die anderen Militärs. Niemand rechnete mit einem dermaßen starken, schnellen, aber auch unkontrollierten Handeln der sozialistischen Arbeiterschaft wie dem Folgenden.
 
 Die USPD war aus der Regierung ausgeschieden und alle ihr angehörigen Beamten und sonstige politische Funktionsträger traten von ihren jeweiligen Ämtern zurück bis auf einen, der Berliner Polizeipräsident Eichhorn. Er weigerte sich standhaft sein Amt niederzulegen. "Er betrachtete seinen Posten als eine Machtposition des revolutionären Proletariats, die man nicht preisgeben dürfe" (Hannover/Hannover-Drück 1967, S.27). Die KPD und USPD riefen daraufhin zu Massendemonstrationen für Eichhorn auf. Am 5. und 6. Januar war Berlin in den Händen der demonstrierenden Massen der sozialistischen Arbeiter. Jedoch eskalierte die Situation, viele der Arbeiter trugen Waffen und die Utopisten der KPD riefen zu einem gewaltsamen Sturz der Regierung auf. Es entstanden blutige Gefechte zwischen den Arbeitern und konterrevolutionären Soldaten. Man beschloss, dass die Massen nicht ohne Führung bleiben sollte. Ein Revolutionsausschuss unter dem Vorsitz von Liebknecht und den beiden USPD-Politikern Ledebour und Scholze wurde gegründet. Aufgrund der Falschmeldung, dass die in Berlin stationierten Truppen sich auf die Seite der Revolutionäre geschlagen hätten, beschloss der Revolutionsausschuss sich den Forderungen der Utopisten zu beugen und den Sturz der Regierung zu wagen. Als dann in der Nacht vom 5. Januar radikale Spartakisten und KPD-Anhänger die Redaktion der Parteizeitung Vorwärts der MSPD stürmten, war an einen Rückzug nicht mehr zu denken.
@@ -26,9 +28,9 @@ Rosa Luxemburg und Karl Liebknecht mussten in ihren letzten Lebenstagen, währen
 
 ## Das Militär schlägt zurück
 
- Die Regierung war entschlossen hart gegen die Revolutionäre vorzugehen. Man ernannte den Volks-beauftragten der MSPD und späteren Reichswehr-minister Gustav Noske zum Ober-befehlshaber von Berlin, er trat mit den Worten „Einer muß der Bluthund sein, ich scheue die Verantwortung nicht.“ (zit. n. Hannover/Hannover-Drück 1967, S.28) sein Amt an.
+ Die Regierung war entschlossen hart gegen die Revolutionäre vorzugehen. Man ernannte den Volksbeauftragten der MSPD und späteren Reichswehr-minister Gustav Noske zum Oberbefehlshaber von Berlin, er trat mit den Worten „Einer muß der Bluthund sein, ich scheue die Verantwortung nicht.“ (zit. n. Hannover/Hannover-Drück 1967, S.28) sein Amt an.
 
-Berlin wurde daraufhin blutig von den Militärs zurück-erobert, die Aufstände der Arbeiterverbände wurden niedergeschlagen, Demon-strierende verhaftet und die von Spartakisten besetzte MSPD-Zeitungsredaktion gestürmt. Am 13. Januar war so der Spartakusaufstand gewaltsam beendet worden, Berlin war wieder fest in den Händen der Regierung und der OHL. Jedoch hatte man bis dato weder Rosa Luxemburg noch Karl Liebknecht gefasst und der Vorwärts kommentierte:
+Berlin wurde daraufhin blutig von den Militärs zurückerobert, die Aufstände der Arbeiterverbände wurden niedergeschlagen, Demon-strierende verhaftet und die von Spartakisten besetzte MSPD-Zeitungsredaktion gestürmt. Am 13. Januar war so der Spartakusaufstand gewaltsam beendet worden, Berlin war wieder fest in den Händen der Regierung und der OHL. Jedoch hatte man bis dato weder Rosa Luxemburg noch Karl Liebknecht gefasst und der Vorwärts kommentierte:
 
 > "Viele hundert Tote in einer Reih – \
 Proletarier! \
