@@ -84,7 +84,7 @@ Um einen öffentlichen Eklat zu vermeiden und um ein 'Martyrium Rosa Luxemburg u
 
 Aus Rosa Luxemburg und Karl Liebknecht wurden später trotzdem Heldenfiguren; und das nicht nur für die Sozialisten, die sie zum Teil sogar zu einem Mythos verklärten, sondern auch für einen Teil des demokratischen Bürgertums. Kurt Tucholsky, ein Mitglied eben jener Schicht, schrieb über Ermordung Rosa Luxemburgs und Karl Liebknechts:
 
-> „Märtyrer…?Nein. \
+> „Märtyrer…? Nein. \
 		         Aber Pöbelsbeute \
 Sie wagtens. Wie selten ist das heute. \
 Sie packten zu, und sie setzten sich ein: \
@@ -115,4 +115,9 @@ das vergisst den beiden kein ehrlicher Mann!
 > Wir sind, weiß Gott, \
 keine Spartakiden. \
 Ehre zwei Kämpfern \
-Sie ruhen in Frieden!“ (Tucholsky 1985, S.41f.)
+Sie ruhen in Frieden!“ (Kurt Tucholsky)
+
+
+### Referenzen
+
+Nochmal zum Abschluss die Quellen, auf die ich mich in allen Teilen bezogen habe: "Eine Leiche im Landwehrkanal" von Klaus Gietinger (1993), "Eine Deutsche Revolution" von Sebastian Haffner (1981), "Der Mord an Rosa Luxemburg und Karl Liebknecht. Dokumentation eines politischen Verbrechen" herausgegeben von Elisbath Hannover-Drück und Heinrich Hannover (1967), "Die Geschichte der Rosa Luxemburg und ihrer Zeit" von Frederik Hetman (1987), sowie "Ich habe Sie richten lassen" von Gustav Strübel (1996).

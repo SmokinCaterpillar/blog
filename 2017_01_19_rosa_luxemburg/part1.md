@@ -21,7 +21,7 @@ In folgenden, zweiten Teil sehen wir uns die unterschiedlichen politischen Grupp
 
 ## Fortsetzungen
 
-Wessen Interesse ich jetzt geweckt habe, darf sich gerne auf weitere folgende Teile freuen
+Wessen Interesse ich jetzt geweckt habe, darf sich gerne auf weitere folgende Teile freuen:
 
 * Teil 2: Deutschland in revolutionären Wirren
 
@@ -33,7 +33,7 @@ Wessen Interesse ich jetzt geweckt habe, darf sich gerne auf weitere folgende Te
 
 ### Referenzen
 
-Primär habe ich mein Wissen aus "Eine Deutsche Revolution" von Sebastian Haffner (1981), "Der Mord an Rosa Luxemburg und Karl Liebknecht. Dokumentation eines politischen Verbrechen" herausgegeben von Elisbath Hannover-Drück und Heinrich Hannover (1967), "Die Geschichte der Rosa Luxemburg und ihrer Zeit" von Frederik Hetman (1987), sowie "Ich habe Sie richten lassen" von Gustav Strübel. Wörtliche Zitate werden auch als solche gekennzeichnet sein.
+Primär habe ich mein Wissen aus "Eine Leiche im Landwehrkanal" von Klaus Gietinger (1993), "Eine Deutsche Revolution" von Sebastian Haffner (1981), "Der Mord an Rosa Luxemburg und Karl Liebknecht. Dokumentation eines politischen Verbrechen" herausgegeben von Elisbath Hannover-Drück und Heinrich Hannover (1967), "Die Geschichte der Rosa Luxemburg und ihrer Zeit" von Frederik Hetman (1987), sowie "Ich habe Sie richten lassen" von Gustav Strübel (1996). Wörtliche Zitate werden auch als solche gekennzeichnet sein.
 
 Dann bis zum nächsten Teil!
 
