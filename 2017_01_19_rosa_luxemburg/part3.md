@@ -28,6 +28,9 @@ Rosa Luxemburg und Karl Liebknecht mussten in ihren letzten Lebenstagen, währen
 
 ## Das Militär schlägt zurück
 
+![Rücksclhag](https://raw.githubusercontent.com/SmokinCaterpillar/blog/master/2017_01_19_rosa_luxemburg/rueckschlag.jpg)
+*Bild Deutsches Historisches Museum*
+
  Die Regierung war entschlossen hart gegen die Revolutionäre vorzugehen. Man ernannte den Volksbeauftragten der MSPD und späteren Reichswehr-minister Gustav Noske zum Oberbefehlshaber von Berlin, er trat mit den Worten „Einer muß der Bluthund sein, ich scheue die Verantwortung nicht.“ (zit. n. Hannover/Hannover-Drück 1967, S.28) sein Amt an.
 
 Berlin wurde daraufhin blutig von den Militärs zurückerobert, die Aufstände der Arbeiterverbände wurden niedergeschlagen, Demon-strierende verhaftet und die von Spartakisten besetzte MSPD-Zeitungsredaktion gestürmt. Am 13. Januar war so der Spartakusaufstand gewaltsam beendet worden, Berlin war wieder fest in den Händen der Regierung und der OHL. Jedoch hatte man bis dato weder Rosa Luxemburg noch Karl Liebknecht gefasst und der Vorwärts kommentierte:
