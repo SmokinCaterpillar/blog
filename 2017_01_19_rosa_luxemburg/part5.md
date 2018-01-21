@@ -1,6 +1,6 @@
 Die ist der fünfte und letzte Teil meiner Serie über den Tod Rosa Luxemburgs und Karl Liebknechts. Beide sind bereits heimtückisch ermordet worden. Welches Nachspiel werden die Taten haben? Die vorherigen Teile dieser Serie waren:
 
-* Teil 1: Die absurde offizielle Version der Todesumstände
+* Teil 1: Die offizielle Version, eine infame Lüge
 
 * Teil 2: Deutschland in revolutionären Wirren
 

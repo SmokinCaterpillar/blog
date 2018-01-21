@@ -1,6 +1,6 @@
 Die ist der vierte Teil meiner Serie über die Ermordung Rosa Luxemburgs und Karl Liebknechts. Der Spartakusaufstand brachte die Massen der Arbeiterschaft auf Berlins Straßen und das Militär schlug blutig zurück. Doch Rosa Luxemburg und Karl Liebknecht kamen sie bisher noch nich zu fassen. Die anderen Teile meiener Serie sind, bzw. werden sein:
 
-* Teil 1: Die absurde offizielle Version der Todesumstände
+* Teil 1: Die offizielle Version, eine infame Lüge
 
 * Teil 2: Deutschland in revolutionären Wirren
 
