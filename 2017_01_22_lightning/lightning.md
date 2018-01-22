@@ -30,9 +30,9 @@ You think these payment channels are a genius idea? Wait for the second, network
 
 So far we only created bi-directional payment channels. Now let us get to the real network. Let us assume Alice has established a payment channel with Bob. Moreover, Bob has another channel with Charlie and he is connected with Daria. If Alice wants to send BTC to Daria, she does not need to do this "on chain". Instead she could simply use Bob and Charlie to route her payment to Daria. Hence, if enough people are interconnected, the majority of transactions can happen "off chain".
 
-![network](https://raw.githubusercontent.com/SmokinCaterpillar/blog/master/2017_01_22_lightning/network.jpg)
-
 The actual steps look like the following, assuming Alice wants to pay Daria 0.1 BTC:
+
+![network](https://raw.githubusercontent.com/SmokinCaterpillar/blog/master/2017_01_22_lightning/network.jpg)
 
 * Alice needs to find a route to Daria. She discovers that she can hop over Bob and Charlie.
 
