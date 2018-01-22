@@ -1,6 +1,8 @@
-The most pressing issue Bitcoin is facing is, without doubt, the problem of scalability. Roughly every 10 minutes a new block with a maximum size of 1 MB is added to Bitcoin's blockchain. This block size has severe consequences for the amount of transactions that can be processed by the Bitcoin network. On average the network can route 3 to 7 transactions per second. These numbers can stand absolutely no comparison with the [VISA capacities of several thousand transaction per second](https://en.bitcoin.it/wiki/Scalability). Consequently, the Bitcoin network suffers from constant congestion and processing fees have reached levels of 50 $ and higher. Clearly, these fees hinder Bitcoin from becoming a "A Peer-to-Peer Electronic Cash System" as envisioned by its anonymous inventor Satoshi Nakamoto in the [original whitepaper](https://bitcoin.org/bitcoin.pdf).
+Without doubt, the problem of scalability is currently Bitcoins most pressing issue. Roughly every 10 minutes a new block with a maximum size of 1 MB is added to Bitcoin's blockchain. This block size has severe consequences for the amount of transactions that can be processed by the Bitcoin network. On average the network can route 3 to 7 transactions per second. These numbers can stand absolutely no comparison with the [VISA capacities of several thousand transaction per second](https://en.bitcoin.it/wiki/Scalability). Consequently, the Bitcoin network suffers from constant congestion and processing fees have reached levels of 50 $ and higher. Clearly, these fees hinder Bitcoin from becoming a "A Peer-to-Peer Electronic Cash System" as envisioned by its anonymous inventor Satoshi Nakamoto in the [original whitepaper](https://bitcoin.org/bitcoin.pdf).
 
 Attempts were made to tackle the congestion problem last year. For example, in August the **Segregated Witness** (SegWit) soft fork was activated. This fork removes the unlocking signature, i.e. *witness* data, from a transactio. In turn, transactions become smaller and, thus, more of them fit into a single block. Moreover, SegWit enables the implementation of the *Lightning Network*, the most important addition to BTC coming in 2018.
+
+![thunder](https://raw.githubusercontent.com/SmokinCaterpillar/blog/master/bitcoin2018/lightning.jpg)
 
 ## Lightning Payment Channels
 
@@ -24,9 +26,11 @@ Still, what if Bob does not realize Alice cheats on him because he is offline? T
 
 You think these payment channels are a genius idea? Wait for the second, network part of *Lightning*.
 
-## The Lighnting Network
+## The Lightning Network
 
 So far we only created bi-directional payment channels. Now let us get to the real network. Let us assume Alice has established a payment channel with Bob. Moreover, Bob has another channel with Charlie and he is connected with Daria. If Alice wants to send BTC to Daria, she does not need to do this "on chain". Instead she could simply use Bob and Charlie to route her payment to Daria. Hence, if enough people are interconnected, the majority of transactions can happen "off chain".
+
+![network](https://raw.githubusercontent.com/SmokinCaterpillar/blog/master/2017_01_22_lightning/network.jpg)
 
 The actual steps look like the following, assuming Alice wants to pay Daria 0.1 BTC:
 
@@ -40,11 +44,11 @@ The actual steps look like the following, assuming Alice wants to pay Daria 0.1 
 
 * Daria, of course, knows `R` because she generated it in the first place. Consequently, she can settle the payment with Charlie.
 
-* Daria now tells `R` to Bob and Charlie, and they can settle their open bills of 0.1 BTC with Bob and Alice, respectively. In conclusion, Alice has transferred 0.1 BTC indirectly to Daria via Bob and Charlie.
+* Daria now tells `R` to Bob and Charlie. Thus, they can settle their open bills of 0.1 BTC with Bob and Alice, respectively. In conclusion, Alice has transferred 0.1 BTC indirectly to Daria via Bob and Charlie.
 
-What happens in case Daria is uncooperative and does not give `R` to Bob and Charlie? Well, she cannot avoid this.  If she wanted to publish and redeem the transaction from Charlie to her on chain, she has to reveal `R` for the transaction to be mined, viz. Bob and Charlie get to know `R` anyway.
+What happens in case Daria is uncooperative and does not give `R` to Bob and Charlie? Well, she cannot avoid this.  If she wanted to publish and redeem the transaction from Charlie to her *on chain*, she has to reveal `R` for the transaction to be mined, viz. Bob and Charlie get to know `R` anyway.
 
-And the best part is, the *Lighnting Network* is not coming in the distant future. Instead, it is (almost) here. You can already buy a [VPN connection](https://news.bitcoin.com/vpn-provider-now-accepts-lightning-network-payments/) with *Lightning* or [top up your phone](https://www.coindesk.com/payment-provider-bitrefill-runs-successful-lightning-transaction-test/). Moreover, you can even use Lightning yourself in action, on a testnet, though, at [HTLC.me](https://htlc.me/).
+And the best part is, the *Lighnting Network* is not coming in the distant future. Instead, it is (almost) here. You can already buy a [VPN connection](https://news.bitcoin.com/vpn-provider-now-accepts-lightning-network-payments/) with *Lightning* or [top up your phone](https://www.coindesk.com/payment-provider-bitrefill-runs-successful-lightning-transaction-test/). Moreover, you can even try Lightning yourself in action, on a testnet though, at [HTLC.me](https://htlc.me/).
 
 However, all *Lightning* implementations are still in a testing phase and undergo development. Moreover, some open questions remain: Will the *Lightning Network* lead to a more centralized Bitcoin system? Will there be major payment hubs routing everyone's payments? The *Lightning Network* would than be in the hands of a few. If being banned or censored by the hubs, one would have to turn back to the bare-bone Bitcoin network and bypass *Lightning* with "on chain" transactions.
 
