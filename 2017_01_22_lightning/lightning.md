@@ -6,6 +6,8 @@ Attempts were made to tackle the congestion problem last year. For example, in A
 
 The *Lightning Network* promises to solve the aforementioned scalability issues by moving most of Bitcoin transactions off chain. This means users can exchange Bitcoin without constantly interacting with the blockchain. This will hopefully allow to scale to thousands of transactions per second. The new network is based on so called *payment channels*. In a nutshell, payment channels work as follows. Let us assume Alice and Bob (who else?) want to exchange BTC through such a so called payment channel.
 
+![channel](https://raw.githubusercontent.com/SmokinCaterpillar/blog/master/2017_01_22_lightning/channel.jpg)
+
 * First, both, Alice and Bob, need to deposit a collateral, for example 1 BTC, via a so called "opening transaction" to the payment channel. The channel itself is a multi-signature transaction controlled by both parites. This happens "on chain", i.e. this first deposit needs to be processed by the Bitcoin miners.
 
 * All following transactions, however, can be executed "off chain". For instance, Alice wants to pay 0.5 BTC to Bob. So they create a new "commitment transaction" invalidating the original "opening transaction" and now attributing 1.5 BTC to Bob and the remaining 0.5 BTC to Alice. To emphasize this again, this transaction does not need to be processed by the blockchain. Only Alice and Bob store a private copy of the transaction.
