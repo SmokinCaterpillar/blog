@@ -10,7 +10,7 @@ The *Lightning Network* promises to solve the aforementioned scalability issues 
 
 ![channel](https://raw.githubusercontent.com/SmokinCaterpillar/blog/master/2017_01_22_lightning/channel.jpg)
 
-* First, both, Alice and Bob, need to deposit a collateral, for example 1 BTC, via a so called "opening transaction" to the payment channel. The channel itself is a multi-signature transaction controlled by both parites. This happens "on chain", i.e. this first deposit needs to be processed by the Bitcoin miners.
+* First, both, Alice and Bob, need to deposit a collateral, for example 1 BTC, via a so called "opening transaction" to the payment channel. The channel itself is a multi-signature transaction controlled by both parites. This happens *on chain*, i.e. this first deposit needs to be processed by the Bitcoin miners.
 
 * All following transactions, however, can be executed "off chain". For instance, Alice wants to pay 0.5 BTC to Bob. So they create a new "commitment transaction" invalidating the original "opening transaction" and now attributing 1.5 BTC to Bob and the remaining 0.5 BTC to Alice. To emphasize this again, this transaction does not need to be processed by the blockchain. Only Alice and Bob store a private copy of the transaction.
 
@@ -28,7 +28,7 @@ You think these payment channels are a genius idea? Wait for the second, network
 
 ## The Lightning Network
 
-So far we only created bi-directional payment channels. Now let us get to the real network. Let us assume Alice has established a payment channel with Bob. Moreover, Bob has another channel with Charlie and he is connected with Daria. If Alice wants to send BTC to Daria, she does not need to do this "on chain". Instead she could simply use Bob and Charlie to route her payment to Daria. Hence, if enough people are interconnected, the majority of transactions can happen "off chain".
+So far we only created bi-directional payment channels. Now let us get to the real network. Let us assume Alice has established a payment channel with Bob. Moreover, Bob has another channel with Charlie and he is connected with Daria. If Alice wants to send BTC to Daria, she does not need to do this *on chain*. Instead she could simply use Bob and Charlie to route her payment to Daria. Hence, if enough people are interconnected, the majority of transactions can happen "off chain".
 
 The actual steps look like the following, assuming Alice wants to pay Daria 0.1 BTC:
 
@@ -50,6 +50,6 @@ What happens in case Daria is uncooperative and does not give `R` to Bob and Cha
 
 And the best part is, the *Lighnting Network* is not coming in the distant future. Instead, it is (almost) here. You can already buy a [VPN connection](https://news.bitcoin.com/vpn-provider-now-accepts-lightning-network-payments/) with *Lightning* or [top up your phone](https://www.coindesk.com/payment-provider-bitrefill-runs-successful-lightning-transaction-test/). Moreover, you can even try Lightning yourself in action, on a testnet though, at [HTLC.me](https://htlc.me/).
 
-However, all *Lightning* implementations are still in a testing phase and undergo development. Moreover, some open questions remain: Will the *Lightning Network* lead to a more centralized Bitcoin system? Will there be major payment hubs routing everyone's payments? The *Lightning Network* would than be in the hands of a few. If being banned or censored by the hubs, one would have to turn back to the bare-bone Bitcoin network and bypass *Lightning* with "on chain" transactions.
+However, all *Lightning* implementations are still in a testing phase and undergo development. Moreover, some open questions remain: Will the *Lightning Network* lead to a more centralized Bitcoin system? Will there be major payment hubs routing everyone's payments? The *Lightning Network* would than be in the hands of a few. If being banned or censored by the hubs, one would have to turn back to the bare-bone Bitcoin network and bypass *Lightning* with *on chain* transactions.
 
 Will *Lightning* be established in time? The network cannot just be turned *on* like a light switch. It needs to grow and it will take time until the technology is established. Maybe all these endeavors come to late and other currencies will overtake Bitcoin, like [RaiBlocks](https://raiblocks.net/) having no fees utilizing a block lattice instead of a chain. Indeed, 2018 will be decisive for Bitcoin and show if *Lightning* can turn the tables.
