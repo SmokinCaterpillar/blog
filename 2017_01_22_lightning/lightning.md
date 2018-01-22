@@ -28,7 +28,7 @@ You think these payment channels are a genius idea? Wait for the second, network
 
 ## The Lightning Network
 
-So far we only created bi-directional payment channels. Now let us get to the real network. Let us assume Alice has established a payment channel with Bob. Moreover, Bob has another channel with Charlie and he is connected with Daria. If Alice wants to send BTC to Daria, she does not need to do this *on chain*. Instead she could simply use Bob and Charlie to route her payment to Daria. Hence, if enough people are interconnected, the majority of transactions can happen "off chain".
+So far we only created bi-directional payment channels. Now let us get to the real network. Let us assume Alice has established a payment channel with Bob. Moreover, Bob has another channel with Charlie and he is connected with Daria. If Alice wants to send BTC to Daria, she does not need to do this *on chain*. Instead she could simply use Bob and Charlie to route her payment to Daria.
 
 The actual steps look like the following, assuming Alice wants to pay Daria 0.1 BTC:
 
@@ -36,7 +36,7 @@ The actual steps look like the following, assuming Alice wants to pay Daria 0.1 
 
 * Alice needs to find a route to Daria. She discovers that she can hop over Bob and Charlie.
 
-* Daria creates a random number `R`, but keeps it secret. Instead she sends a hash of `R`, i.e. `H(R)` to Alice.
+* Daria creates a random number `R`, but keeps it secret. Instead she sends the hash of `R`, i.e. `H(R)` to Alice.
 
 * Alice creates now a **Hash Time-Locked Contract** (HTLC) with Bob. She signs a transaction saying that Bob is entitled to 0.1 BTC if he figures out `R` (with hash value `H(R)`) within 3 days.
 
@@ -48,6 +48,7 @@ The actual steps look like the following, assuming Alice wants to pay Daria 0.1 
 
 What happens in case Daria is uncooperative and does not give `R` to Bob and Charlie? Well, she cannot avoid this.  If she wanted to publish and redeem the transaction from Charlie to her *on chain*, she has to reveal `R` for the transaction to be mined, viz. Bob and Charlie get to know `R` anyway.
 
+If enough people are interconnected, the majority of transactions can happen *off chain* and Bitcoin's congestion problem is a thing of the past.
 And the best part is, the *Lighnting Network* is not coming in the distant future. Instead, it is (almost) here. You can already buy a [VPN connection](https://news.bitcoin.com/vpn-provider-now-accepts-lightning-network-payments/) with *Lightning* or [top up your phone](https://www.coindesk.com/payment-provider-bitrefill-runs-successful-lightning-transaction-test/). Moreover, you can even try Lightning yourself in action, on a testnet though, at [HTLC.me](https://htlc.me/).
 
 However, all *Lightning* implementations are still in a testing phase and undergo development. Moreover, some open questions remain: Will the *Lightning Network* lead to a more centralized Bitcoin system? Will there be major payment hubs routing everyone's payments? The *Lightning Network* would than be in the hands of a few. If being banned or censored by the hubs, one would have to turn back to the bare-bone Bitcoin network and bypass *Lightning* with *on chain* transactions.
