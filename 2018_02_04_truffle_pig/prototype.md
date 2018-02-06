@@ -8,6 +8,8 @@ The general idea of this Artificial Intelligence is the following:
 
 3. Next, we can compare the predicted payout with the actual payouts of the Steemit posts. If the Machine Learning model predicts a huge reward, but the post was merely paid at all, we classify this contribution as an overlooked truffle or hidden gem. As we will see later in the examples, this works for a first prototype surprisingly well!
 
+![robot](https://raw.githubusercontent.com/SmokinCaterpillar/blog/master/2018_02_04_truffle_pig/robot.png)
+
 
 ## Data Scraping and Pre-Processing
 
