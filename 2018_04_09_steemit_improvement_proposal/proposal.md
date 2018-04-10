@@ -2,11 +2,11 @@
 
 ### tl;dr Summary
  
-Besides the existing voting power decrease, halve an additional new voting power for revoting on the same authors again and again and let the new revoting power recover very, very slowly. Details below.
+Besides the existing voting power decrease, halve an additional new voting power for revoting on the same authors again and again, and let the new revoting power recover very, very slowly. Details below.
 
 ### Steemit's Strengths and Weaknesses
 
-I am a big fan of Steemit and the Steem blockchain and tokens. To my mind, it is probably the only Cryptocurrency that is really backed by something, namely the entire Steemit community. Many users put there heart and soul into their posts. For example, I am a fond reader of many #steemstem publications and amazed how much time and effort authors spend on well-researched science and technology contributions.
+I am a big fan of Steemit, the Steem blockchain, and the Steem tokens. To my mind, it is probably the only Cryptocurrency that is really backed by something, namely the entire Steemit community. Many users put there heart and soul into their posts. For example, I am a fond reader of many #steemstem publications and amazed how much time and effort authors spend on well-researched science and technology contributions.
 
 Yet, without doubt Steemit has its dark sides as well and does not run without friction. There are some issues that come to my mind such as:
 
@@ -22,7 +22,7 @@ I still believe that the Steemit [proof-of-brain](https://steem.io/steem-bluepap
 
 These top-lists have started a discussion if bid bots are in fact useful. The argument goes as follows: Bid bots democratize the hot and trending sections as they enable everyone (with the right amount of pocket money, of course) to get their shiny posts up there. Thereby they fight the circular upvote rings that regularly appeared at the top before the advent of the bid bots.
 
-This is a valuable argument and made me think about how I could improve @trufflepig's no-bid-bot-top-list without promoting the circular upvote patterns. Instead of improving @trufflepig directly, I had an idea about how to improve Steemit's voting algorithm in general. To my mind a small adjustment of the voting rules may tackle all three of the above listed problems to some extend.
+This is a valuable argument and made me think about how I could improve @trufflepig's no-bid-bot-top-list without promoting the circular upvote patterns. Instead of improving @trufflepig directly, I had an idea about how to improve Steemit's voting algorithm in general. To my mind a small adjustment of the voting rules may tackle all three of the above listed problems to some extent.
 
 # The Proposal
 
@@ -45,7 +45,7 @@ If curator @charlie voted again on another article by author @alice with 100% vo
 
 The **most important part** is that **revoting power** is **author specific**. For instance, if curator @charlie decides to vote on author @bob's new article after his two votes on @alice. He would grant @bob a much stronger vote with a total strength of 96% (`voting weight * voting power * revoting power = 100% * 96% * 100%`).
 
-Details are to be debated. For instance, the lowering of revoting power could be stopped at 6.25% (4th halving) such that hardcore fans of a particular author can support her or him no matter what, but at the expense to sacrifice a lot of influence. Also the doubling time to recharge could be variable such as 28 days to recover from 50 to 100%, but 7 days for any smaller recovery.
+Details are to be debated. For instance, the lowering of revoting power could be stopped at 6.25% (4th halving) such that hardcore fans of a particular author can support her or him no matter what, but at the expense of sacrificing a lot of influence. Also the doubling time to recharge could be variable such as 28 days to recover from 50 to 100%, but 7 days for any smaller recovery.
 
 ### Implications of the new Revoting Power
 
